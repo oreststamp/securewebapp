@@ -86,29 +86,29 @@ Two additional routes exist specifically to demonstrate the security architectur
 **Architecture proof**
 
 *Resource group overview — full resource inventory*
-![Resource group overview](screenshots/Azure%20Portal%20%E2%80%94%20resource%20group%20overview.png)
+![Resource group overview](screenshots/Azure_Portal___resource_group_overvidew.png)
 
 *VNet subnets — subnet-web and subnet-data with assigned NSGs*
-![VNet subnets](screenshots/Azure%20Portal%20%E2%80%94%20VNet%20subnets%20view.png)
+![VNet subnets](screenshots/Azure_Portal___VNet_subnets_view.png)
 
 *SQL Networking — public access disabled*
-![SQL public access disabled](screenshots/Azure%20Portal%20%E2%80%94%20SQL%20Networking%20page.png)
+![SQL public access disabled](screenshots/Azure_Portal___SQL_Networking_page.png)
 
 *SQL Networking — private endpoint connection, approved*
-![SQL private endpoint](screenshots/Azure%20Portal%20%E2%80%94%20SQL%20Private%20Endpoint%20page.png)
+![SQL private endpoint](screenshots/Azure_Portal___SQL_Private_Endpoint_page.png)
 
 **CI/CD**
 
 *GitHub Actions — successful build and deploy on the cleaned commit history*
-![GitHub Actions success](screenshots/GitHub%20Actions%20%E2%80%94%20a%20successful%20pipeline%20run.png)
+![GitHub Actions success](screenshots/GitHub_Actions___a_successful_pipeline_run.png)
 
 **The working app**
 
 *URL shortener form*
-![URL shortener form](screenshots/URL%20shortener%20form%20%28main%20page%29.png)
+![URL shortener form](screenshots/URL_shortener_form__main_page_.png)
 
 *Stats page — real shortened links with click counts*
-![Stats page](screenshots/stats%20page.png)
+![Stats page](screenshots/stats_page.png)
 
 *dbcheck — successful Managed Identity authentication to SQL*
 ![dbcheck](screenshots/dbcheck.png)
