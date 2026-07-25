@@ -86,29 +86,29 @@ Two additional routes exist specifically to demonstrate the security architectur
 **Architecture proof**
 
 *Resource group overview — full resource inventory*
-![Resource group overview](screenshots/Azure_Portal___resource_group_overvidew.png)
+![Resource group overview](screenshots/resource-group-overview.png)
 
 *VNet subnets — subnet-web and subnet-data with assigned NSGs*
-![VNet subnets](screenshots/Azure_Portal___VNet_subnets_view.png)
+![VNet subnets](screenshots/vnet-subnets.png)
 
 *SQL Networking — public access disabled*
-![SQL public access disabled](screenshots/Azure_Portal___SQL_Networking_page.png)
+![SQL public access disabled](screenshots/sql-networking-public-access.png)
 
 *SQL Networking — private endpoint connection, approved*
-![SQL private endpoint](screenshots/Azure_Portal___SQL_Private_Endpoint_page.png)
+![SQL private endpoint](screenshots/sql-networking-private-endpoint.png)
 
 **CI/CD**
 
 *GitHub Actions — successful build and deploy on the cleaned commit history*
-![GitHub Actions success](screenshots/GitHub_Actions___a_successful_pipeline_run.png)
+![GitHub Actions success](screenshots/github-actions-success.png)
 
 **The working app**
 
 *URL shortener form*
-![URL shortener form](screenshots/URL_shortener_form__main_page_.png)
+![URL shortener form](screenshots/url-shortener-form.png)
 
 *Stats page — real shortened links with click counts*
-![Stats page](screenshots/stats_page.png)
+![Stats page](screenshots/stats-page.png)
 
 *dbcheck — successful Managed Identity authentication to SQL*
 ![dbcheck](screenshots/dbcheck.png)
